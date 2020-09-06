@@ -4,7 +4,7 @@ Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualm
 
 :rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
 
-:tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no canal da LINUXtips [Canal do Youtube](https://youtube.com/linuxtips)
+:tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
 
 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
@@ -16,7 +16,7 @@ Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualm
     <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/4BYlkYtHNus?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/0cDj7citEjE?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 
