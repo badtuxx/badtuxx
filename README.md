@@ -16,7 +16,7 @@ Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualm
     <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/0cDj7citEjE?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 
