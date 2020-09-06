@@ -2,11 +2,11 @@
 
 Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
-:rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
+- :rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
 
-:tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
+- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
 
-💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
+- 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
 <p align="center">
   <a href="https://github.com/eddiejaoude?tab=followers">
