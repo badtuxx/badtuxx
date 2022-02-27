@@ -2,7 +2,7 @@
 
 Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
-- :rocket: Atualmente trabalho como Mission Critical Engineer na @SchubergPhilis
+- :rocket: Atualmente trabalho como DevOps Engineer na LeasePlan.
 
 - :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
 
