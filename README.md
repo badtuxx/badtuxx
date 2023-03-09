@@ -2,7 +2,7 @@
 
 Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
-- :rocket: Atualmente trabalho como DevOps Engineer na LeasePlan.
+- :rocket: Atualmente trabalho como Platform Engineer na LeasePlan.
 
 - :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
 
@@ -17,6 +17,9 @@ Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualm
   </a>
   <a href="http://youtube.com/linuxtips?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+  <a href="http://twitch.tv/linuxtips?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=Twitch&logo=Twitch&style=for-the-badge" />
   </a>
 </p>
 
