@@ -31,21 +31,6 @@ Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualm
 
 - 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
-<p align="center">
-  <a href="https://github.com/badtuxx?tab=followers">
-    <img src="https://img.shields.io/github/followers/badtuxx?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/badtux_">
-    <img src="https://img.shields.io/twitter/follow/badtux_?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-  <a href="http://twitch.tv/linuxtips?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/pV0nkr61XP8?label=Twitch&logo=Twitch&style=for-the-badge" />
-  </a>
-</p>
-
 
 
 <!--
