@@ -4,13 +4,24 @@
 </p>
 
 <p align="center">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
-  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
-  <img alt="Discord" src="https://img.shields.io/discord/769953234965889026?label=Discord&style=plastic">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/linuxtips?style=social">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/badtuxx?style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/badtux_?style=social">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LINUXtipsBR?style=social">
+  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
+  </a>
+  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
+  </a>
+  <a href="http://twitch.tv/linuxtips?sub_confirmation=1">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/linuxtips?style=social">
+  </a>
+  <a href="http://github.com/badtuxx">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/badtuxx?style=social">
+  </a>
+  <a href="http://twitter.com/badtux_">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/badtux_?style=social">
+  </a>
+  <a href="http://twitter.com/linuxtipsbr">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LINUXtipsBR?style=social">
+  </a>
 </p>
 
 <p align="center">
