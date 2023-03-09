@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
-  <img alt="Discord" src="https://img.shields.io/discord/769953234965889026?label=Discord">
+  <img alt="Discord" src="https://img.shields.io/discord/769953234965889026?label=Discord&style=social">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/linuxtips?style=social">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/badtuxx?style=social">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/badtux_?style=social">
