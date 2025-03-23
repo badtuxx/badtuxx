@@ -66,7 +66,7 @@
 </p>
 
 
-### :sound: Seja muito bem-vindo e muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
+### :sound: Seja muito bem-vindo, seja muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
 
 Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
 
